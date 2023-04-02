@@ -8,7 +8,7 @@ Leia o arquivo `README.md` de cada pasta para saber como acessar os exercícios.
 
 ## Exercícios
 
-1. [Estrutura condicional](estruturaCondicional\README.md)
+1. [Estrutura condicional](estruturaCondicional/README.md)
 <!-- 2. [Estrutura de repetição](estruturaRepeticao\README.md) -->
 
 ## Licença
