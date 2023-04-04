@@ -1,18 +1,29 @@
 const nota1 = parseFloat(prompt("Digite a 1ª nota: "));
 const nota2 = parseFloat(prompt("Digite a 2ª nota: "));
+let conceito;
 
 const media = (nota1 + nota2) / 2;
 
-document.write("Média " + media + "<br />")
+alert("Nota do 1º semestre: " + nota1);
+alert("Nota do 2º semestre: " + nota2);
+alert("Média " + media)
 
 if (media >= 9) {
-    document.write("Conceito A");
+    conceito = "A";
 } else if (media >= 7.5) {
-    document.write("Conceito B");
+    conceito = "B";
 } else if (media >= 6) {
-    document.write("Conceito C");
+    conceito = "C";
 } else if (media >= 4) {
-    document.write("Conceito D");
+    conceito = "D";
 } else {
-    document.write("Conceito E");
+    conceito = "E";
+}
+
+alert("Conceito " + conceito);
+
+if (conceito === "A" || conceito === "B") {
+    alert("Aprovado");
+} else {
+    alert("Reprovado");
 }
