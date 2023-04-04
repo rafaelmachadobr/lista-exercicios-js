@@ -113,3 +113,7 @@ Desconto do IR:
   Salário Liquido : R$ 935,00
 
 [Resolução](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaCondicional/ex09/)
+
+10 - ...
+
+[Resolução](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaCondicional/ex10/)
