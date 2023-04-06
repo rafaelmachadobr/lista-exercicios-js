@@ -100,20 +100,44 @@ Desconto do IR:
 - Salário Bruto até 2500 (inclusive) - desconto de 10%
 - Salário Bruto acima de 2500 - desconto de 20% Imprima na tela as informações, dispostas conforme o exemplo abaixo. No exemplo o valor da hora é 5 e a quantidade de hora é 220.
 
-  Salário Bruto: (5 \* 220) : R$ 1100,00
-
-  (-) IR (5%) : R$ 55,00
-
-  (-) INSS ( 10%) : R$ 110,00
-
-  FGTS (11%) : R$ 121,00
-
-  Total de descontos : R$ 165,00
-
-  Salário Liquido : R$ 935,00
+  | Salário Bruto: (5 \* 220) | R$ 1100,00 |
+  | ------------------------- | ---------- |
+  | (-) IR (5%)               | R$ 55,00   |
+  | (-) INSS ( 10%)           | R$ 110,00  |
+  | FGTS (11%)                | R$ 121,00  |
+  | Total de descontos        | R$ 165,00  |
+  | Salário Liquido           | R$ 935,00  |
 
 [Resolução](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaCondicional/ex09/)
 
-10 - ...
+10 - Faça um script que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
 
 [Resolução](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaCondicional/ex10/)
+
+11 - Faça um script que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
+
+| Média de Aproveitamento | Conceito |
+| ----------------------- | -------- |
+| Entre 9.0 e 10.0        | A        |
+| Entre 7.5 e 9.0         | B        |
+| Entre 6.0 e 7.5         | C        |
+| Entre 4.0 e 6.0         | D        |
+| Entre 4.0 e zero        | E        |
+
+O algoritmo deve mostrar numa janela de alert as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.
+
+[Resolução](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaCondicional/ex11/)
+
+12 - Faça um script que peça os 3 lados de um triângulo. O script deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
+
+Dicas:
+
+Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
+
+Triângulo Equilátero: três lados iguais;
+
+Triângulo Isósceles: quaisquer dois lados iguais;
+
+Triângulo Escaleno: três lados diferentes;
+
+[Resolução](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaCondicional/ex12/)
