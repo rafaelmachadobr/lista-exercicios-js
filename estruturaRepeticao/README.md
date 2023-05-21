@@ -92,3 +92,4 @@ do {
 - [Exercício 20](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex20/)
 - [Exercício 21](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex21/)
 - [Exercício 22](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex22/)
+- [Exercício 23](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex23/)
