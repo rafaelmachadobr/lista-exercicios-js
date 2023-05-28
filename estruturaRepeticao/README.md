@@ -110,3 +110,6 @@ do {
 - [Exercício 38](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex38/)
 - [Exercício 39](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex39/)
 - [Exercício 40](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex40/)
+- [Exercício 41](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex41/)
+- [Exercício 42](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex42/)
+- [Exercício 43](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex43/)
