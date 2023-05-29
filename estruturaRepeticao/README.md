@@ -115,3 +115,4 @@ do {
 - [Exercício 43](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex43/)
 - [Exercício 44](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex44/)
 - [Exercício 45](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex45/)
+- [Exercício 46](https://rafaelmachadobr.github.io/lista-exercicios-js/estruturaRepeticao/ex46/)
